@@ -3,9 +3,9 @@
 
 ## Discussion Topic Papers
 
-      * Macchirarini P 2008 Lancet (장서영) 
-      * Warnke PH-2004 Lancet (목진원)
-      * Alsberg E-2002 PNAS (정진길)
+      * Macchirarini P 2008 Lancet (SJ) 
+      * Warnke PH-2004 Lancet (JM)
+      * Alsberg E-2002 PNAS (JJ)
 
       Atala A 2006 Lancet 
       Baptista PM 2011 Hepatology 
