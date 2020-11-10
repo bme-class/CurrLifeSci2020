@@ -12,7 +12,7 @@
 ### cifar10: [cifar10.ipynb](cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/cifar10.ipynb)
 ### imagedatagenerator: [imagedatagenerator.ipynb](imagedatagenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/imagedatagenerator.ipynb)
 ### VGG16: [VGG16.ipynb](VGG16.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/VGG16.ipynb)
-### GPU-assign: [GPU-assign.ipynb](GPU-assign.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/GPU-assign.ipynb)
+### GPU_assign: [GPU_assign.ipynb](GPU_assign.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/GPU_assign.ipynb)
 ### weight_initializer: [weight_initializer.ipynb](weight_initializer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/weight_initializer.ipynb)
 ### face_recognition: [face_recognition.ipynb](face_recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bme-class/CurrLifeSci2020/blob/master/minimal_code/face_recognition.ipynb)
 
